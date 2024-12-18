@@ -14,7 +14,7 @@ function autoload($class)
 	$dir = realpath(dirname(__FILE__)).DIRECTORY_SEPARATOR;
 
 	$ci_core = array(
-		'Benchmark',
+		'Benchmarks',
 		'Config',
 		'Controller',
 		'Exceptions',
